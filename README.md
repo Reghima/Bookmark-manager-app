@@ -5,11 +5,11 @@
 ## Stack technique
 
 - Front :
-  React.js
+  React.js ,
   Antd
 
 - Backend :
-  Node JS
+  Node JS ,
   Express JS
 
 - Base de Données :
