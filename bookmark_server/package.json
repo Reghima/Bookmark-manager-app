@@ -1,0 +1,21 @@
+{
+  "name": "bookmark_server",
+  "version": "1.0.0",
+  "description": "Bookmark_manager_backend",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon index.js"
+  },
+  "author": "Marwen REGHIMA",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "dotenv": "^16.0.0",
+    "express": "^4.17.3",
+    "mongoose": "^6.2.8",
+    "oembed-parser": "^3.0.0-rc5"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.15"
+  }
+}
